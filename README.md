@@ -18,14 +18,14 @@
 ## 박스오피스
 | BoxOffice |
 | :--: |
-| ![screen](/images/02_BoxOffice.png)|
+| <img src="/images/02_BoxOffice.png" width="200px"> |
 
 <br/>
 
 ## 테마
 | 테마 리스트 | 테마 상세 |
 | :--: | :--: |
-| ![screen](/images/03_Theme_1.png)| ![screen](/images/03_Theme_2.png)|
+| <img src="/images/03_Theme_1.png" width="200px"> | <img src="/images/03_Theme_2.png" width="200px"> |
 
 <br/>
 
@@ -39,7 +39,7 @@
 ## 영화 상세
 | 영화 상세 | 영화 상세 |
 | :--: | :--: |
-| ![screen](/images/05_MovieDetail_1.png)| ![screen](/images/05_MovieDetail_2.png)|
+| <img src="/images/05_MovieDetail_1.png" width="200px"> | <img src="/images/05_MovieDetail_2.png" width="200px"> |
 
 <br/>
 
